@@ -2,7 +2,3 @@
 # If there is no middle letter, your function should return the empty string
 
 #For example, mid("abc") should return "b" and mid("aaaa") should return "".
-
-def mid(string):
-    mid = [i for i in list(string)]
-    return mid
